@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
-  - {file: "CV_JXing.pdf", title: CV}
+  - {file: "https://github.com/jxx87/jxx87.github.io/blob/a0d88892ddcde8926479e2d7080d4f5956ea83e3/CV_JXing.pdf", title: CV}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
