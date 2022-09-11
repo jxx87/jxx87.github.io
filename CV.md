@@ -6,4 +6,4 @@ layout: page
 
 ## Installation
 
-Just fork this [repository]({{site.url}}/assets/CV_JXing.pdf) 
+Just fork this [repository]({{jxx87.github.io}}/CV_JXing.pdf) 
