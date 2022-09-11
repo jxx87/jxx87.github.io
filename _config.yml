@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
-  - {file: "CV.html", title: CV}
+  - {url: "https://drive.google.com/file/d/1E5BdJRbSwSGdBnR6aum-AYu0UFXnCCpX/view", title: CV}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
