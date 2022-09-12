@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", icon: home}
+  - {file: "index.md", title: Home}
   - {title: CV, url: "https://jxx87.github.io/CV/CV_JXing.pdf"}
-  - {file: "README.md"}
+  - {file: "research.md", title: Research}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
