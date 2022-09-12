@@ -1,6 +1,6 @@
 title: "Jin Xing"
 # author: "Jin Xing"
-color: black
+color: primary
 font: 
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
