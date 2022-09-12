@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<span style="color:green;font-weight:700;font-size:20px">
 
 **Greetings, and welcome to my webpage!** I am a Ph.D. candidate at Tulane University. My research fields include health economics and applied microeconomics in general. I am interested in applying state-of-the-art data analysis techniques (e.g., econometrics, machine/deep learning) to health-related behavior and policy issues. I am passionate about developing and contributing my skills to improve people's health outcomes and quality of life.
 
@@ -8,5 +9,5 @@ Prior to Tulane, I earned my M.S. in Economics at Drexel University as well as m
 
 You can reach out to me at jxing@tulane.edu.
 
-
+</span>
 
