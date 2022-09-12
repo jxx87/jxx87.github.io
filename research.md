@@ -1,10 +1,9 @@
 ---
-title: "Research"
 permalink: "/research/"
 layout: page
 ---
-
-### [Do financial incentives affect care provision in Medicaid? Evidence from Florida Medicaid’s Payment Reform](http://jxx87.github.io/research/Florida.pdf)
+## Research
+#### [Do financial incentives affect care provision in Medicaid? Evidence from Florida Medicaid’s Payment Reform](http://jxx87.github.io/research/Florida.pdf)
 
 *Abstract* While there is a large body of literature examining how physicians respond to 
 financial incentives in the context of Medicare and private payers, evidence on this issue for
