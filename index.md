@@ -7,6 +7,6 @@ layout: page
 
 Prior to Tulane, I earned my M.S. in Economics at Drexel University as well as my M.S. in Electrical Engineering at Case Western Reserve University. Before graduate school, I earned my B.S. in Applied Physics at Beijing Jiaotong University in China. 
 
-You can reach out to me at [jxing@tulane.edu](jxing@tulane.edu).
+You can reach out to me at <jxing@tulane.edu>.
 
 
