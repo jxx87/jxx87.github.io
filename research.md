@@ -54,7 +54,7 @@ importance of postponing the onset and reducing the frequency of marijuana use.
 
 
 ## M.S.Thesis
-#### [An Unsupervised Method forWake/Sleep Scoring]("http://jxx87.github.io/research/Thesis.pdf")
+#### [An Unsupervised Method forWake/Sleep Scoring](http://jxx87.github.io/research/Thesis.pdf)
 *Abstract.* Visual sleep scoring of Polysomnograms (PSG) by an expert is a time-consuming process. Although a number of automatic sleep scoring methods have been proposed in the literature, most of them are based on supervised algorithms. That is, labels in their training data assigned by an expert are required. In this thesis, we propose an unsupervised method for wake/sleep scoring without labels a priori. Features based on temporal and spectral analysis are extracted from a single channel of EEG. Principal
 Component Analysis (PCA) is used to reduce the number of features while identifying patterns in the data. The Gustafson–Kessel algorithm is used for clustering analysis, and sleep scoring is done by retrieving one characteristic feature of wake: the alpha rhythm. Sixteen subjects from the MIT-BIH Polysomnographic Database were tested by this method. Compared to actual stage scoring, 14 have scoring accuracy above 75%, and the average accuracy is 79.35%.
 
