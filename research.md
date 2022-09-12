@@ -3,6 +3,7 @@ layout: page
 title: 
 ---
 
+
 # Ph.D. Dissertation
 ### [Do financial incentives affect care provision in Medicaid? Evidence from Florida Medicaid’s Payment Reform](http://jxx87.github.io/research/Florida.pdf)
 
