@@ -2,7 +2,7 @@ title: "Jin Xing"
 # author: "Jin Xing"
 color: #1997a9
 fontsize: 12pt
-
+fontfamily: kpfonts
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
